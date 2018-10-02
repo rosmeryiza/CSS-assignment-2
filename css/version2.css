@@ -61,7 +61,6 @@ article {
 section {
   max-width: 100%;
   width: 500px;
-  flex: 1 0 auto;
 }
 
 .photo {
